@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Sahu</h1>
 <h3 align="center">A passionate programming learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/VC5cCjFKjLqkJyRo7"">
+
 - 🌱 I’m currently learning **web development and web designing**
 
 - 💬 Ask me about **designing and algorithms**
